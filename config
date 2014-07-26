@@ -1,0 +1,7 @@
+PROJECT_NAME           = "Projet ODL - Novembre 2012"
+PROJECT_NUMBER         = 1.0
+OUTPUT_DIRECTORY       = doc
+OUTPUT_LANGUAGE        = French
+INPUT                  = include src
+FILE_PATTERNS          = *.c *.h
+EXTRACT_ALL            = YES

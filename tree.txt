@@ -1,0 +1,42 @@
+.
+├── bin
+├── config
+├── doc
+├── include
+│   ├── header.h
+│   ├── intfc.h
+│   ├── jeu.h
+│   ├── memoire.h
+│   ├── primitives.h
+│   └── questions.h
+├── makefile
+├── obj
+├── projet.sh
+├── questions
+│   └── questions_001.txt
+├── readme.txt
+├── src
+│   ├── ia
+│   ├── intfc2d
+│   ├── intfct
+│   │   ├── intfct.c
+│   │   └── intfct-test.c
+│   ├── jeu
+│   │   ├── jeu.c
+│   │   └── jeu-test.c
+│   ├── main
+│   │   └── main.c
+│   ├── makefile
+│   ├── memoire
+│   │   ├── memoire.c
+│   │   └── memoire-test.c
+│   ├── moteur2d
+│   ├── primitives
+│   │   ├── primitives.c
+│   │   └── primitives-test.c
+│   └── questions
+│       ├── questions.c
+│       └── questions-test.c
+└── tree.txt
+
+15 directories, 24 files

@@ -1,0 +1,4 @@
+Quelle est la capitale du Japon?|Osaka|Kyoto|Tokyo|3
+Qui a ecrit "Les Miserables"?|Balzac|Victor Hugo|Denis Ritchie|2
+La célèbre femme écrivain Colette est née en...|1873|1885|1902|1
+A quelle valeur décimale correspond la valeur héxadécimale FF?|512|16|255|3
